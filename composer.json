@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Low Wun Hon",
+        "email": "21012050@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
